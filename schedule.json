@@ -1,0 +1,36 @@
+{
+  "monday": [
+    {
+      "time": "08:00",
+      "subject": "ООП",
+      "room": "212",
+      "teacher": "Петров"
+    },
+    {
+      "time": "09:45",
+      "subject": "Дискретная математика",
+      "room": "305",
+      "teacher": "Иванов"
+    }
+  ],
+  "tuesday": [
+    {
+      "time": "08:00",
+      "subject": "Английский",
+      "room": "104",
+      "teacher": "Сидорова"
+    }
+  ],
+  "wednesday": [],
+  "thursday": [],
+  "friday": [
+    {
+      "time": "08:00",
+      "subject": "Тестовая пара",
+      "room": "101",
+      "teacher": "Тестовый препод"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}
